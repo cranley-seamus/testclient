@@ -1,0 +1,11 @@
+{
+    "realm": "reflect",
+    "auth-server-url": "https://unity.keycloak.local:8443",
+    "ssl-required": "external",
+    "resource": "testreflect",
+    "credentials": {
+      "secret": "NrU9fv5msWVGsSkPR90sORLKURr826r0"
+    },
+    "confidential-port": 0
+  }
+  
